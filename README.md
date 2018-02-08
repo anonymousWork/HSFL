@@ -22,16 +22,20 @@ Please go to this folder for further information.
 ## ./Chart
 This folder contains the data for all the bugs in subject Chart.
 
-####./Chart/Chart\_1
+#### ./Chart/Chart\_1
 This subfolder contains the data for bug Chart 1
 
-./Chart/Chart\_1/HSFL: it contains the results of HSFL and the component Histrum
+*./Chart/Chart\_1/HSFL*: it contains the results of HSFL and the component Histrum
 for different techniques.
-./Chart/Chart\_1/SBFL: it contains the results of conventional SBFL for
+*./Chart/Chart\_1/SBFL*: it contains the results of conventional SBFL for
 different techniques.
-./Chart/Chart\_1/a7cc1cf88cb014e937a55af53ea1f96407688a5e: this is the inducing
+*./Chart/Chart\_1/a7cc1cf88cb014e937a55af53ea1f96407688a5e*: this is the inducing
 change of this bug, and it contains the covered lines by the failing tests on
 the bug-inducing version.
+*./Chart/Chart\_1/fileindexes*: this folder contains file indexes for each
+suspicious buggy source file. Specifically, it records all the versions starting
+from the bug-inducing version to the target version for each suspicious buggy
+source file.
 
 
 
