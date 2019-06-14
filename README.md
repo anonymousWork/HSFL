@@ -11,7 +11,7 @@ It contains the following file and folders:
 ## ./Survey.pdf
 This file contains the complete results of our empirical survey conducted at
 Microsoft. 
-We only reported partial results in the submitted paper due to page limit.
+We did not report the results in the submitted paper due to page limit.
 
 
 ## ./HSFL
